@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @utkarshhmishraa
 - 👀 I’m interested in ...Coding,Freelancing
 - 🌱 I’m currently learning ...Photoshop,Illustrator,C++
-- 📫 How to reach me ...utkarshmishra.fl@gmail.com
+- 📫 How to reach me ... utkarshmishra.fl@gmail.com
 
 <!---
 utkarshhmishraa/utkarshhmishraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
