@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @utkarshhmishraa
+- 👋 Hi, I’m @dev.utkarsh
 - 👀 I’m interested in ...Coding,Freelancing
 - 🌱 I’m currently learning ...Photoshop,Illustrator,C++
 - 📫 How to reach me ... utkarshmishra.fl@gmail.com
